@@ -1,0 +1,21 @@
+.link {
+  background-color: var(--secondary-background-color);
+  text-decoration: none;
+  padding: 1rem;
+  font-size: 0.8rem;
+  border-radius: 0.2rem;
+  letter-spacing: 0.05rem;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  &:hover {
+    background-color: var(--secondary-text-color);
+  }
+
+  .link-arrow {
+    height: 1rem;
+  }
+}
