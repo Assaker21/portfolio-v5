@@ -8,6 +8,7 @@ export default function App() {
     <>
       <Navbar />
       <Footer />
+      <div className="background" />
       <About />
       <Projects />
     </>

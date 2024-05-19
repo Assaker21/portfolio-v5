@@ -34,3 +34,13 @@ body.no-scroll {
   color: var(--accent-color);
   background: var(--accent-color);
 }
+
+.background {
+  background-color: var(--background-color);
+  position: absolute;
+  width: 100vw;
+  height: 800px;
+  top: 0;
+  right: 0;
+  z-index: 1;
+}
