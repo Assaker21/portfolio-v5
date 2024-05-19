@@ -1,5 +1,4 @@
-import { Github, Mail } from "lucide-react";
-
+import { Mail } from "lucide-react";
 import "./navbar.component.scss";
 
 export default function Navbar() {
