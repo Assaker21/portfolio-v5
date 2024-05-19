@@ -26,7 +26,6 @@ body.no-scroll {
 }
 
 ::-moz-selection {
-  /* Code for Firefox */
   color: var(--accent-color);
   background: var(--accent-color);
 }
